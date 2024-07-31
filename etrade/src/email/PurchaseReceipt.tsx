@@ -21,10 +21,10 @@ import {
   
   PurchaseReceiptEmail.PreviewProps = {
     product: {
-      name: "Product name",
-      description: "Some description",
+      name: "Alchemist",
+      description: "Paulo Coelho",
       imagePath:
-        "/products/5aba7442-e4a5-4d2e-bfa7-5bd358cdad64-02 - What Is Next.js.jpg",
+        "/products/1e037bde-4f98-4412-a6ba-520faf48e5b3-base1.avif",
     },
     order: {
       id: crypto.randomUUID(),

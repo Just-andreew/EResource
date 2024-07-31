@@ -33,10 +33,10 @@ import {
         pricePaidInCents: 10000,
         downloadVerificationId: crypto.randomUUID(),
         product: {
-          name: "Product name",
+          name: "An introduction to machine learning",
           description: "Some description",
           imagePath:
-            "/products/5aba7442-e4a5-4d2e-bfa7-5bd358cdad64-02 - What Is Next.js.jpg",
+            "/products/73be0897-ef5c-45ce-8677-d620ccc9a579-machine-learning.jpeg",
         },
       },
       {
@@ -45,10 +45,10 @@ import {
         pricePaidInCents: 2000,
         downloadVerificationId: crypto.randomUUID(),
         product: {
-          name: "Product name 2",
+          name: "Artificial Intelligence",
           description: "Some other desc",
           imagePath:
-            "/products/db3035a5-e762-41b0-996f-d54ec730bc9c-01 - Course Introduction.jpg",
+            "/products/703ed654-26ac-4a38-97c6-9fb00d98b9c8-Artificial_Intelligence_ebook_banner.avif",
         },
       },
     ],
